@@ -1,0 +1,258 @@
+.navbar-brand {
+    float: left;
+    height: auto;
+    padding: 15px 15px;
+    font-size: 18px;
+    line-height: 20px;
+}
+
+.vehicle-header-cls {
+    padding: 0;
+}
+
+.panel-default>.panel-heading {
+    color: #333;
+    background-color: #F2F5FB;
+    border-color: #ddd;
+    font-size: 6.2rem;
+    padding: 20px;
+}
+
+.panel-default {
+    border-color: #ddd;
+    border: none;
+    /* box-shadow: 2px 1px 5px rgba(0, 0, 0, 0.11); */
+    border-radius: 0 !important;
+}
+
+.sec-cls.subscribe-area.pb-50.pt-70 {
+    border-top: solid 1px #eee;
+}
+
+.text-black {
+    color: #000;
+}
+
+.bg-white {
+    background:white;
+}
+
+.bg-white {
+    background:white;
+}
+
+.border-grey {
+    border-color: #E7EDF3 !important;
+    border-radius: 10px;
+    border: solid 1px;
+}
+
+.card-img, .card-img-top {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.text-grey {
+    color:#B7BCB9;
+}
+
+.text-dark-grey {
+    color:#6F6F6F;
+}
+
+.text-orange {
+    color: #F2963A;
+}
+
+.btn-trader {
+    border: none;
+    font-size: 17px;
+    font-weight: 400;
+    background: #F2963A;
+    border-radius: 10px;
+    color: #fff;
+}
+
+.img-rounded {
+    border-radius: 50%;
+    width: 130px !important;
+    height: 130px !important;
+}
+
+.py-10 {
+    padding: 100px 0 !important;
+}
+
+.list-inline.font-sm {
+    font-size: 1rem;
+    padding: 0;
+}
+
+.border-light-grey {
+    border-color: #E7EDF3;
+}
+
+.img-rounded.leader-img {
+    width: 70px !important;
+    height: 70px !important;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: #E7ECF5;
+}
+
+.table td, .table th, .table>tfoot>tr>td, .table>thead>tr>th {
+    border-top: none;
+}
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th   {
+    padding: 15px !important;
+}
+
+.numberCircle {
+    border-radius: 50%;
+    width: 36px;
+    height: 36px;
+    padding-top: 0;
+    background: #fff;
+    border: 2px solid #fff;
+    color: #666;
+    text-align: center;
+    font-weight: 400;
+    font-size: 22px;
+}
+
+.bg-light-grey {
+    background-color: #F2F5FB;
+}
+
+.border-radius-20 {
+    border-radius: 20px;
+}
+
+.font-sm {
+    font-size: 1.2rem;
+}
+
+@media (min-width: 992px) {
+    .navbar-expand-lg .navbar-nav .dropdown-menu {
+        position: absolute;
+        top: 70px;
+    }
+}
+
+.btn.btn-account {
+    background: white;
+    padding: 10px 20px !important;
+    border-radius: 10px !important;
+}
+
+.btn.btn-account.active {
+    border-color: #F2963A !important;
+    color: #F2963A !important;
+}
+
+.list-inline-item.active {
+    border-bottom: solid 2px #F2963A;
+    padding-bottom: 10px;
+}
+
+#account label {
+    color: #181C32;
+    font-size: 15px;
+    font-weight: 300;
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    height: calc(1.5em + .75rem + 10px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #E7EDF3;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+#account .subscription-box.selected {
+    max-width: 350px;
+    background: #F3F6F9;
+    padding: 12px 0px 10px 0px;
+    border-radius: 11px;
+    border: solid 1px #F2963A;
+}
+
+#account .subscription-box.unselected {
+    max-width: 350px;
+    background: #F3F6F9;
+    padding: 12px 0px 10px 0px;
+    border-radius: 11px;
+    border: solid 1px #B7BCB9;
+}
+
+#account .row.car-listing {
+    background: #fff !important;
+}
+
+.bg-orange {
+    background: #F2963A;
+}
+
+.register-btn {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    z-index: 999;
+}
+
+.card-signin {
+    border: 0;
+    border-radius: 0rem;
+}
+
+.card-signin .card-title {
+    margin-bottom: 2rem;
+    font-weight: 300;
+    font-size: 1.5rem
+}
+
+.card-signin .card-body {
+    padding: 2rem
+}
+
+.form-signin {
+    width: 100%
+}
+
+.form-signin .btn {
+font-size: 1rem;
+border-radius: 11.05px;
+letter-spacing: .1rem;
+padding: 1rem;
+font-weight: 600;
+transition: all 0.2s;
+}
+
+
+.btn-google {
+    color: white;
+    background-color: #ea4335
+}
+
+.btn-facebook {
+    color: white;
+    background-color: #3b5998
+}
+.card-body {
+background: #fff;
+border-radius: 0px 0px 20px 20px;
+color: #fff;
+}
+.btn-fb {
+    background: #2c79ea;
+    padding: .8rem;
+}
